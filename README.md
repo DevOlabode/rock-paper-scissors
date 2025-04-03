@@ -21,16 +21,12 @@ This is a simple Rock Paper Scissors game built using HTML and JavaScript. The g
 ## How to Clone and Run
 1. Clone the repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors.git
+   git clone https://github.com/DevOlabode/rock-paper-scissors.git
    ```
 2. Open the `index.html` file in your favorite web browser.
 3. Open the browser's console (usually by pressing `F12` or `Ctrl+Shift+J`).
 4. Play the game by following the prompts!
 
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in your favorite web browser.
-3. Open the browser's console (usually by pressing `F12` or `Ctrl+Shift+J`).
-4. Play the game by following the prompts!
 
 ## Acknowledgments
 This project was created as part of learning web development. Feel free to contribute or suggest improvements!
